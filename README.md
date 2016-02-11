@@ -170,6 +170,8 @@ Use [ES5](http://es5.github.io/). This is standard in all mainstream browsers (b
 
 ES6 is coming but browser support is not there yet. At the moment our codebase is not complex enough to warrant authoring in ES6 and transpiling to ES5. This will be kept under review as support for ES6 improves and/or our codebase grows.
 
+You can use the .jshintrc and .jscsrc files supplied in this repo to help enforce the rules that follow.
+
 ### Styleguide
 Use [this code style guide](https://github.com/davidcmoulton/javascript/tree/master/es5). This is a slightly edited version of AirBnB's.
 
