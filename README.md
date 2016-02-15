@@ -24,6 +24,10 @@ HTML5 elements are well supported and may be used as standard. For IE8 and below
 
 ## CSS
 
+If there's a standard for the existing codebase for quotes, (either double or single), stick to it.
+
+For new codebases, or codebases without an existing standard, use only double quotes, not single quotes.
+
 ### Styleguide
 - Indent with 2 spaces, one property per line, with a space between the selector and the opening brace. The colon separating the property name from its value should be followed by one space, but not be preceeded by a space.
  
